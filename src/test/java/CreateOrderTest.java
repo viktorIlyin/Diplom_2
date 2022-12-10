@@ -1,3 +1,7 @@
+import api.client.Constants;
+import api.client.OrderClient;
+import api.client.UserClient;
+import api.data.UserGenerator;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
 

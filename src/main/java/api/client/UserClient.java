@@ -1,9 +1,13 @@
+package api.client;
+
+import api.data.UserGenerator;
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.given;
 
 public class UserClient extends Client {
+    UserGenerator user;
     @Step("Создание нового пользователя")
     public Response createNewUser(UserGenerator user) {
         return given()

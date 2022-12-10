@@ -1,14 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c036ab15-cd65-4f02-9d85-4d00c1c154f8" name="Changes" comment="" />
+    <list default="true" id="c036ab15-cd65-4f02-9d85-4d00c1c154f8" name="Changes" comment="Diplom_2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/client/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OrderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/client/OrderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/client/UserClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UserGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/data/UserGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CreateUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UpdateUserDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UpdateUserDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/101a7830-636e-4531-b13a-52d26c3b6f2d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/13423571-7c54-410e-a44c-27d65c821948-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1575a19c-537c-47d4-92d8-68ceb05be6d8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1e3eab3c-0172-4dc6-b1b4-fc0369bcf5a9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/22a27d2c-0255-4319-8c08-75539c23012e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2513681f-bfcb-44bd-a724-80d6f40ba7fa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2a6ed287-d3a2-48cf-b188-cb361601e80e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/34783b47-1f4e-4553-9f9c-f40a11386429-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4d4a02a1-bc95-46f3-9640-3df857f725e1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/5ebc68d3-4be2-4dd9-aa57-304507f907af-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/699d68fc-9b14-49f2-87f0-7a953c04a0e2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/69dd97d1-4737-488d-b5fa-bf1d6fa17bac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7b107818-81bc-4931-b722-7bd1157d5273-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7c589065-07fb-4e41-9973-571753eed0d0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/94941eb1-e0bb-4f47-a088-f902b70cce4c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9f2399df-cb9d-4e8b-8767-98c7d181e593-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a7525ead-0bde-4555-9fbe-5c0d14ed97c7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/abc70871-f9e5-489e-a1b9-1255bf4177f1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/baa19d40-73fa-4459-800b-7de2b3f6a39b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/eb1a1eda-e180-4695-846d-e4cbe3c4eb7a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/eb94df56-de6b-4090-8d11-6b660325f8ae-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ef9d2bed-b4be-4807-a3e1-19bfbdfbdb0b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f89e9566-b26b-4644-8a2e-59e0428679ad-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f8ae1f35-f296-48c0-ad34-0182054eaf20-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fc824c39-0221-47ad-a47f-0cb9a118f349-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ffe2ec0e-9a4d-4820-926c-e32b5961ba9e-result.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2IPXcNI2BAy0TXDVtERGZvlpKm4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,9 +87,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/proj/Diplom_2",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\proj\Diplom_2\src\main\java" />
+      <recent name="C:\proj\Diplom_2\src\test\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="echo &quot;# Diplom_2&quot; &gt;&gt; README.md" />
+      <command value="echo &quot;# Diplom_2&quot; &gt;&gt; README.md " />
+      <command value="git remote add origin git@github.com:viktorIlyin/Diplom_2.git" />
+      <command value="git checkout -b develop2" />
+      <command value="mvn allure:serve" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +120,29 @@
       <option name="presentableId" value="Default" />
       <updated>1670084270580</updated>
     </task>
+    <task id="LOCAL-00001" summary="Diplom_2">
+      <created>1670086383271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670086383272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Diplom_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diplom_2" />
   </component>
 </project>

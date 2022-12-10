@@ -1,3 +1,5 @@
+package api.client;
+
 public class Constants {
     public static final String BASE_URL = "https://stellarburgers.nomoreparties.site/api/";
     public static final String USER_CREATE_PATH = "auth/register";
